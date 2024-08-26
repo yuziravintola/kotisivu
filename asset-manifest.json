@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kotisivu/static/css/main.754ebb54.css",
+    "main.js": "/kotisivu/static/js/main.2783a5a4.js",
+    "static/media/home.png": "/kotisivu/static/media/home.e043b556cd72dca4a68c.png",
+    "static/media/cropped_logo_name.png": "/kotisivu/static/media/cropped_logo_name.fa8b87c94bd7f344366b.png",
+    "static/media/whatsapp_invite.jpeg": "/kotisivu/static/media/whatsapp_invite.0872a6ea95fbf59b5c48.jpeg",
+    "static/media/logo.png": "/kotisivu/static/media/logo.2a1a98ff480614293d84.png",
+    "index.html": "/kotisivu/index.html",
+    "main.754ebb54.css.map": "/kotisivu/static/css/main.754ebb54.css.map",
+    "main.2783a5a4.js.map": "/kotisivu/static/js/main.2783a5a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.754ebb54.css",
+    "static/js/main.2783a5a4.js"
+  ]
+}

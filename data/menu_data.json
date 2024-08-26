@@ -1,0 +1,1339 @@
+[
+  {
+      "category": "Alkuruoat 🥗",
+      "name": "A1. Kevätkääryle vihannes",
+      "description": "",
+      "price": "4,50 €",
+      "image": "/assets/images/66a1578479a8a67bc56d7c28.jpg"
+  },
+  {
+      "category": "Alkuruoat 🥗",
+      "name": "A2. Kevätkääryle liha",
+      "description": "",
+      "price": "4,50 €",
+      "image": "/assets/images/66a15791f97d415a19bc5551.jpg"
+  },
+  {
+      "category": "Alkuruoat 🥗",
+      "name": "A3. Friteerattua kanaa",
+      "description": "",
+      "price": "12,00 €",
+      "image": "/assets/images/669f70d217cb85459f1e82d0.jpg"
+  },
+  {
+      "category": "Alkuruoat 🥗",
+      "name": "A4. Friteerattua katkarapua",
+      "description": "10 kpl",
+      "price": "15,00 €",
+      "image": "/assets/images/669f70d817cb85459f1e82d1.jpg"
+  },
+  {
+      "category": "Alkuruoat 🥗",
+      "name": "A5. Friteerattua kalaa",
+      "description": "",
+      "price": "13,00 €",
+      "image": "/assets/images/669f70dd17cb85459f1e82d2.jpg"
+  },
+  {
+      "category": "Alkuruoat 🥗",
+      "name": "A6. Katkarapusipsit",
+      "description": "",
+      "price": "4,00 €",
+      "image": "/assets/images/669f70e317cb85459f1e82d4.jpg"
+  },
+  {
+      "category": "Alkuruoat 🥗",
+      "name": "A9. Kana dumplings 12 kpl",
+      "description": "Kana täyteellä dumplings etikka kastike. Tähän annokseen ei kuulu riisiä",
+      "price": "15,00 €",
+      "image": "/assets/images/38f95af6-545c-11ed-b1c2-3654bbbbfc06_yaki_gyoza_00.jpeg.jpg"
+  },
+  {
+      "category": "Alkuruoat 🥗",
+      "name": "A10. Friteerattua ankkaa",
+      "description": "",
+      "price": "16,00 €",
+      "image": "/assets/images/669f719517cb85459f1e82eb.jpg"
+  },
+  {
+      "category": "Alkuruoat 🥗",
+      "name": "A11. Friteerattuja kuorittuja katkarapuja",
+      "description": "",
+      "price": "15,00 €",
+      "image": "/assets/images/669f70eb59946c5d8ed9a687.jpg"
+  },
+  {
+      "category": "Keitot 🍲",
+      "name": "A7. Yun tun keitto",
+      "description": "",
+      "price": "7,00 €",
+      "image": "/assets/images/669f712259946c5d8ed9a68e.jpg"
+  },
+  {
+      "category": "Keitot 🍲",
+      "name": "A12. Pekingin keitto",
+      "description": "(tulisuus: medium 🔥🔥)",
+      "price": "6,00 €",
+      "image": "/assets/images/669f70f059946c5d8ed9a688.jpg"
+  },
+  {
+      "category": "Keitot 🍲",
+      "name": "A13. Kanakeitto",
+      "description": "",
+      "price": "6,00 €",
+      "image": "/assets/images/669f70f617cb85459f1e82d6.jpg"
+  },
+  {
+      "category": "Keitot 🍲",
+      "name": "A15. Tza-tzai porsaanlihakeitto",
+      "description": "",
+      "price": "6,00 €",
+      "image": "/assets/images/669f710759946c5d8ed9a68a.jpg"
+  },
+  {
+      "category": "Keitot 🍲",
+      "name": "1. Misokeitto",
+      "description": "",
+      "price": "6,00 €",
+      "image": "/assets/images/669f727ef85d3b736e9c05fd.jpg"
+  },
+  {
+      "category": "Keitot 🍲",
+      "name": "2. Tom Pla-keitto",
+      "description": "",
+      "price": "8,50 €",
+      "image": "/assets/images/669f70124a496f79c14bf175.jpg"
+  },
+  {
+      "category": "Keitot 🍲",
+      "name": "3. Tom Kha-keitto",
+      "description": "",
+      "price": "8,50 €",
+      "image": "/assets/images/66a15660f97d415a19bc5550.jpg"
+  },
+  {
+      "category": "Alkuruoat 🥗",
+      "name": "4. Wakame-salaatti",
+      "description": "",
+      "price": "5,00 €",
+      "image": "/assets/images/5633967c-1903-11eb-a425-4e823e3863b3_4.jpeg.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "5. Kana tempura",
+      "description": "",
+      "price": "7,00 €",
+      "image": "/assets/images/66a158afafd792467e226a8b.jpg"
+  },
+  {
+      "category": "Alkuruoat 🥗",
+      "name": "6. Jättikatkaraputempura 4 kpl",
+      "description": "",
+      "price": "7,00 €",
+      "image": "/assets/images/6147cf60-1903-11eb-a0c4-9ac751d77081_6.jpeg.jpg"
+  },
+  {
+      "category": "Alkuruoat 🥗",
+      "name": "7. Kevätkääryleet 8 kpl",
+      "description": "",
+      "price": "6,00 €",
+      "image": "/assets/images/6c5cf4b6-1903-11eb-b42f-5a155e859dec_7.jpeg.jpg"
+  },
+  {
+      "category": "Keitot 🍲",
+      "name": "A16. Maissikanakeitto",
+      "description": "",
+      "price": "6,00 €",
+      "image": "/assets/images/669f710c59946c5d8ed9a68b.jpg"
+  },
+  {
+      "category": "Keitot 🍲",
+      "name": "A17. Vihanneskeitto",
+      "description": "",
+      "price": "6,00 €",
+      "image": "/assets/images/669f711259946c5d8ed9a68d.jpg"
+  },
+  {
+      "category": "Keitot 🍲",
+      "name": "A18. Äyriäiskeitto",
+      "description": "",
+      "price": "6,00 €",
+      "image": "/assets/images/669f711717cb85459f1e82d7.jpg"
+  },
+  {
+      "category": "Keitot 🍲",
+      "name": "A19. Dongyin keitto",
+      "description": "",
+      "price": "8,50 €",
+      "image": "/assets/images/66a15642afd792467e226a88.jpg"
+  },
+  {
+      "category": "Keitot 🍲",
+      "name": "A21. Yun tun keitto",
+      "description": "",
+      "price": "7,00 €",
+      "image": "/assets/images/669f711d17cb85459f1e82d8.jpg"
+  },
+  {
+      "category": "Keitot 🍲",
+      "name": "A20. Misokeitto",
+      "description": "",
+      "price": "6,00 €",
+      "image": "/assets/images/669f7281f85d3b736e9c05ff.jpg"
+  },
+  {
+      "category": "Tofut 🧈",
+      "name": "A116. Mapo tofu",
+      "description": "(tulinen 🔥🔥🔥)",
+      "price": "12,00 €",
+      "image": "/assets/images/fda0ec0c-24a8-11ef-b4c9-92a59f0dc0f0_kanaa_kung_po.png.jpg"
+  },
+  {
+      "category": "Tofut 🧈",
+      "name": "A114. Kung Po tofu",
+      "description": "(Tulisuus: medium 🔥🔥)",
+      "price": "12,00 €",
+      "image": "/assets/images/669f723517cb85459f1e82f4.jpg"
+  },
+  {
+      "category": "Tofut 🧈",
+      "name": "A115. Tofua ja tuoreita herkkusieniä",
+      "description": "",
+      "price": "12,00 €",
+      "image": "/assets/images/669f723a17cb85459f1e82f5.jpg"
+  },
+  {
+      "category": "Tofut 🧈",
+      "name": "A113 Mausteista tofua valkosipulikastikkeessa",
+      "description": "",
+      "price": "12,00 €",
+      "image": "/assets/images/669f7232fd809433afa45f7b.jpg"
+  },
+  {
+      "category": "Tofut 🧈",
+      "name": "A111 Peking tofu",
+      "description": "(tulisuus: medium 🔥🔥)",
+      "price": "12,00 €",
+      "image": "/assets/images/669f72284a496f79c14bf191.jpg"
+  },
+  {
+      "category": "Tofut 🧈",
+      "name": "A112 Kasvis tofu",
+      "description": "",
+      "price": "12,00 €",
+      "image": "/assets/images/669f722d4a496f79c14bf192.jpg"
+  },
+  {
+      "category": "Tofut 🧈",
+      "name": "A201. Mausteista munakoiso ja tofu valkosipulikastikkeessa",
+      "description": "(tulisuus: medium 🔥🔥)",
+      "price": "13,90 €",
+      "image": "/assets/images/669f725b1186ff34e0880b1c.jpg"
+  },
+  {
+      "category": "Tofut 🧈",
+      "name": "A202. Peking munakoiso ja tofu",
+      "description": "(tulisuus: medium 🔥🔥)",
+      "price": "13,90 €",
+      "image": "/assets/images/669f72601186ff34e0880b1d.jpg"
+  },
+  {
+      "category": "Tofut 🧈",
+      "name": "A203. Kung Po munakoiso tofu",
+      "description": "(Tulisuus: medium 🔥🔥)",
+      "price": "13,90 €",
+      "image": "/assets/images/669f7264f85d3b736e9c05fa.jpg"
+  },
+  {
+      "category": "Tofut 🧈",
+      "name": "A204. Herkkusieni, munakoiso ja tofu",
+      "description": "",
+      "price": "13,90 €",
+      "image": "/assets/images/669f72681186ff34e0880b1e.jpg"
+  },
+  {
+      "category": "Tofut 🧈",
+      "name": "A205. Sichuan munakoiso ja tofu",
+      "description": "(tulisuus: medium 🔥🔥)",
+      "price": "13,90 €",
+      "image": "/assets/images/669f726c1186ff34e0880b1f.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A22. Paistettua riisi ja kanaa chili kastikketta",
+      "description": "",
+      "price": "12,00 €",
+      "image": "/assets/images/669f712817cb85459f1e82d9.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A23. Paistettua nuudelia ja kanaa chili kastiketta",
+      "description": "",
+      "price": "13,00 €",
+      "image": "/assets/images/669f713d59946c5d8ed9a691.jpg"
+  },
+  {
+      "category": "Paistettu riisi ja nuudeli 🍳",
+      "name": "A24. Paistettua riisiä",
+      "description": "",
+      "price": "11,00 €",
+      "image": "/assets/images/669f712d59946c5d8ed9a68f.jpg"
+  },
+  {
+      "category": "Paistettu riisi ja nuudeli 🍳",
+      "name": "A25. Paistettua nuudelia",
+      "description": "",
+      "price": "11,50 €",
+      "image": "/assets/images/669f714217cb85459f1e82db.jpg"
+  },
+  {
+      "category": "Paistettu riisi ja nuudeli 🍳",
+      "name": "A26. Paistettuja udon-nuudeleita",
+      "description": "",
+      "price": "12,00 €",
+      "image": "/assets/images/260ac30c-24a9-11ef-819a-3264ea66e0d6_paistettua_nuudelia.png.jpg"
+  },
+  {
+      "category": "Paistettu riisi ja nuudeli 🍳",
+      "name": "A27. Curry paistettua riisiä",
+      "description": "",
+      "price": "13,00 €",
+      "image": "/assets/images/669f713259946c5d8ed9a690.jpg"
+  },
+  {
+      "category": "Paistettu riisi ja nuudeli 🍳",
+      "name": "A28. Curry paistettua nuudelia",
+      "description": "",
+      "price": "13,00 €",
+      "image": "/assets/images/669f714717cb85459f1e82dc.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A29. Paistettua kanaa ja riisiä",
+      "description": "",
+      "price": "12,00 €",
+      "image": "/assets/images/669f713817cb85459f1e82da.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A30. Paistettua kanaa ja nuudeleita",
+      "description": "",
+      "price": "12,00 €",
+      "image": "/assets/images/669f714d59946c5d8ed9a694.jpg"
+  },
+  {
+      "category": "Meren antimet 🦐",
+      "name": "A70. Paistettua katkarapua pippurikastikkeessa",
+      "description": "",
+      "price": "15,00 €",
+      "image": "/assets/images/66a15b61afd792467e226a8e.jpg"
+  },
+  {
+      "category": "Meren antimet 🦐",
+      "name": "A71. Curry katkarapu",
+      "description": "",
+      "price": "16,00 €",
+      "image": "/assets/images/66a15b71f39ac42dea6d054d.jpg"
+  },
+  {
+      "category": "Meren antimet 🦐",
+      "name": "A72. Vihanneksia ja katkarapua",
+      "description": "",
+      "price": "15,00 €",
+      "image": "/assets/images/66a15b7ff97d415a19bc5556.jpg"
+  },
+  {
+      "category": "Meren antimet 🦐",
+      "name": "A73. Katkarapuja mustapapukastikkeessa",
+      "description": "",
+      "price": "15,00 €",
+      "image": "/assets/images/66a15b8df39ac42dea6d054e.jpg"
+  },
+  {
+      "category": "Meren antimet 🦐",
+      "name": "A73. Katkarapu mustapapukastikkeessa",
+      "description": "",
+      "price": "15,00 €",
+      "image": "/assets/images/66a15ba1afd792467e226a8f.jpg"
+  },
+  {
+      "category": "Meren antimet 🦐",
+      "name": "A74. Chili katkarapu",
+      "description": "",
+      "price": "15,00 €",
+      "image": "/assets/images/66a15bb181a53a693895d26d.jpg"
+  },
+  {
+      "category": "Meren antimet 🦐",
+      "name": "A75. Katkarapua makea chilikastikkeessa",
+      "description": "(hieman tulinen 🔥)",
+      "price": "16,00 €",
+      "image": "/assets/images/66a15bc2f97d415a19bc5557.jpg"
+  },
+  {
+      "category": "Meren antimet 🦐",
+      "name": "A76. Kung Po katkarapu",
+      "description": "tulisuus: medium 🔥🔥",
+      "price": "15,00 €",
+      "image": "/assets/images/66a15bd6f97d415a19bc5558.jpg"
+  },
+  {
+      "category": "Meren antimet 🦐",
+      "name": "A77. Katkarapua ja cashew-pähkinää",
+      "description": "",
+      "price": "16,00 €",
+      "image": "/assets/images/66a15be5f39ac42dea6d054f.jpg"
+  },
+  {
+      "category": "Meren antimet 🦐",
+      "name": "A78. Peking katkarapu",
+      "description": "(tulisuus: medium 🔥🔥)",
+      "price": "16,80 €",
+      "image": "/assets/images/66a15bf3f8433e68433e6992.jpg"
+  },
+  {
+      "category": "Meren antimet 🦐",
+      "name": "A79. Katkarapua valkosipulikastikkeella",
+      "description": "",
+      "price": "15,00 €",
+      "image": "/assets/images/66a15c02f8433e68433e6993.jpg"
+  },
+  {
+      "category": "Meren antimet 🦐",
+      "name": "A80. Vihanneksia ja kuorittuja katkarapuja",
+      "description": "",
+      "price": "15,00 €",
+      "image": "No Image"
+  },
+  {
+      "category": "Meren antimet 🦐",
+      "name": "A81. Chiliä ja kuorittuja katkarapuja",
+      "description": "",
+      "price": "15,00 €",
+      "image": "No Image"
+  },
+  {
+      "category": "Ankkaruoat🪿",
+      "name": "A66. Pekingin paistettua ankkaa",
+      "description": "(tulisuus: medium 🔥🔥)",
+      "price": "17,00 €",
+      "image": "/assets/images/669f717b17cb85459f1e82e9.jpg"
+  },
+  {
+    "category": "Ankkaruoat🪿",
+    "name": "A67. Pekingin friteerattua ankkaa",
+      "description": "(tulisuus: medium 🔥🔥)",
+      "price": "17,00 €",
+      "image": "/assets/images/669f718a59946c5d8ed9a699.jpg"
+  },
+  {
+      "category": "Ankkaruoat🪿",
+      "name": "A68. Ankkaa mustapapukastikkeessa",
+      "description": "",
+      "price": "17,00 €",
+      "image": "/assets/images/669f718059946c5d8ed9a698.jpg"
+  },
+  {
+      "category": "Ankkaruoat🪿",
+      "name": "A69. Vihreitä sipuleita ja ankkaa",
+      "description": "",
+      "price": "17,00 €",
+      "image": "/assets/images/669f718517cb85459f1e82ea.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A34. Vihanneksia ja kanaa",
+      "description": "",
+      "price": "12,00 €",
+      "image": "/assets/images/669f704e17cb85459f1e82c3.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A35. Kanaa mustapapukastikkeessa",
+      "description": "",
+      "price": "12,00 €",
+      "image": "/assets/images/669f715217cb85459f1e82dd.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A36. Sipulia ja kanaa",
+      "description": "",
+      "price": "12,00 €",
+      "image": "/assets/images/669f704059946c5d8ed9a673.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A37. Ananasta ja kanaa",
+      "description": "",
+      "price": "13,50 €",
+      "image": "/assets/images/669f717017cb85459f1e82e6.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A38. GuangDong kanaa",
+      "description": "",
+      "price": "16,00 €",
+      "image": "/assets/images/66a15712afd792467e226a89.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A39. Curry kanaa",
+      "description": "",
+      "price": "13,50 €",
+      "image": "/assets/images/76fa8d60-24a9-11ef-af29-e67ffb64cf2e_kanacurry.png.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A40. Thai mausteista kanaa",
+      "description": "(tulisuus: hieman tulinen 🔥)",
+      "price": "12,00 €",
+      "image": "/assets/images/669f705559946c5d8ed9a674.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A41. Pekingin kanaa",
+      "description": "(tulisuus: medium 🔥🔥)",
+      "price": "12,50 €",
+      "image": "/assets/images/669f705b59946c5d8ed9a675.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A42. Kung po kanaa",
+      "description": "(tulisuus: medium 🔥🔥)",
+      "price": "12,50 €",
+      "image": "/assets/images/669f715717cb85459f1e82e1.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A43. Kanaa ja cashewpähkinöitä",
+      "description": "",
+      "price": "13,00 €",
+      "image": "/assets/images/669f715d59946c5d8ed9a696.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A44. Mausteista kanaa valkosipulikastikkeessa",
+      "description": "(tulisuus: medium 🔥🔥)",
+      "price": "13,20 €",
+      "image": "/assets/images/669f706159946c5d8ed9a677.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A45. Kanaa valkosipulikastikkeessa",
+      "description": "(tulisuus: medium 🔥🔥)",
+      "price": "13,20 €",
+      "image": "/assets/images/669f706659946c5d8ed9a678.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A46. Kana hapanimelä tomaattikastikkeessa",
+      "description": "",
+      "price": "13,00 €",
+      "image": "/assets/images/669f716a17cb85459f1e82e3.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A47. Pippurinen kana",
+      "description": "(tulinen 🔥)",
+      "price": "13,20 €",
+      "image": "/assets/images/66a1597c79a8a67bc56d7c29.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A48. Kanaa osteri-kastikkeessa",
+      "description": "",
+      "price": "12,00 €",
+      "image": "/assets/images/66a15989f39ac42dea6d054c.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A49. Kanaa sienillä ja bambunversoilla",
+      "description": "",
+      "price": "12,50 €",
+      "image": "/assets/images/66a1599c79a8a67bc56d7c2a.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A50. Szechuan kanaa",
+      "description": "(tulinen 🔥🔥)",
+      "price": "12,50 €",
+      "image": "/assets/images/66a159aef8433e68433e6990.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A51. Kanaa ja herkkusieniä",
+      "description": "",
+      "price": "12,00 €",
+      "image": "/assets/images/66a159b9f97d415a19bc5554.jpg"
+  },
+  {
+      "category": "Kanaruoat 🐓",
+      "name": "A52.Kanaa makea chilikastikkeessa",
+      "description": "(hieman tulinen 🔥)",
+      "price": "13,00 €",
+      "image": "/assets/images/669f717517cb85459f1e82e7.jpg"
+  },
+  {
+      "category": "Sianliharuoat 🐖",
+      "name": "A53.Vihanneksia ja sianlihaa",
+      "description": "",
+      "price": "12,50 €",
+      "image": "/assets/images/66a15a51afd792467e226a8c.jpg"
+  },
+  {
+      "category": "Sianliharuoat 🐖",
+      "name": "A54. Sianlihaa mustapapukastikkeessa",
+      "description": "",
+      "price": "12,50 €",
+      "image": "/assets/images/9821866a-24a9-11ef-ab46-06bc746fb6b1_kanaa_mustapapukastikeessa.png.jpg"
+  },
+  {
+      "category": "Sianliharuoat 🐖",
+      "name": "A55. Sipulia ja sianlihaa",
+      "description": "",
+      "price": "12,50 €",
+      "image": "/assets/images/66a15a5d79a8a67bc56d7c2c.jpg"
+  },
+  {
+      "category": "Sianliharuoat 🐖",
+      "name": "A56. Ananasta ja sianlihaa",
+      "description": "",
+      "price": "13,50 €",
+      "image": "/assets/images/9b22a600-24a9-11ef-a355-b69e370f56c4_kanaaananas.png.jpg"
+  },
+  {
+      "category": "Sianliharuoat 🐖",
+      "name": "A58. Curry sianlihaa",
+      "description": "",
+      "price": "13,00 €",
+      "image": "/assets/images/9cd05420-24a9-11ef-897e-e23217115dce_kanacurry.png.jpg"
+  },
+  {
+      "category": "Sianliharuoat 🐖",
+      "name": "A59. Pekingin sianlihaa",
+      "description": "(tulisuus: medium 🔥🔥)",
+      "price": "12,50 €",
+      "image": "/assets/images/66a15af0f97d415a19bc5555.jpg"
+  },
+  {
+      "category": "Sianliharuoat 🐖",
+      "name": "A60. Sianlihaa valkosipulikastikkeessa",
+      "description": "",
+      "price": "12,50 €",
+      "image": "/assets/images/a0706a16-24a9-11ef-9078-4e50fc68af16_kanakungpo__1_.png.jpg"
+  },
+  {
+      "category": "Sianliharuoat 🐖",
+      "name": "A61. Sianlihaa osteri-kastikkeella",
+      "description": "",
+      "price": "12,50 €",
+      "image": "/assets/images/a21abc5e-24a9-11ef-90c4-06bc746fb6b1_kanakungpo__1_.png.jpg"
+  },
+  {
+      "category": "Sianliharuoat 🐖",
+      "name": "A62. Sianlihaa sienillä ja bambunversoilla",
+      "description": "",
+      "price": "12,50 €",
+      "image": "/assets/images/a47b9d4c-24a9-11ef-9183-4265a63ecfb3_kanabambujasienia_.png.jpg"
+  },
+  {
+      "category": "Sianliharuoat 🐖",
+      "name": "A63. BBQ sianlihaa",
+      "description": "",
+      "price": "No Price",
+      "image": "/assets/images/a682c818-24a9-11ef-8073-4e50fc68af16_kanaa_mustapapukastikeessa.png.jpg"
+  },
+  {
+      "category": "Sianliharuoat 🐖",
+      "name": "A64. Szechuan sianlihaa",
+      "description": "",
+      "price": "12,50 €",
+      "image": "/assets/images/66a15ac6afd792467e226a8d.jpg"
+  },
+  {
+      "category": "Sianliharuoat 🐖",
+      "name": "A65. Sianlihaa makea chilikastikkeessa",
+      "description": "(hieman tulinen 🔥)",
+      "price": "14,00 €",
+      "image": "/assets/images/669f716317cb85459f1e82e2.jpg"
+  },
+  {
+      "category": "Meren antimet 🦐",
+      "name": "A82. Kalmaria mustapapukastikkeessa",
+      "description": "",
+      "price": "14,00 €",
+      "image": "/assets/images/669f71d0f85d3b736e9c05ec.jpg"
+  },
+  {
+      "category": "Meren antimet 🦐",
+      "name": "A83. Pekingin kalmaria",
+      "description": "(tulisuus: medium 🔥🔥)",
+      "price": "14,00 €",
+      "image": "/assets/images/669f71d5f85d3b736e9c05ee.jpg"
+  },
+  {
+      "category": "Meren antimet 🦐",
+      "name": "A84. Chili kalmari",
+      "description": "",
+      "price": "14,50 €",
+      "image": "/assets/images/669f71d91186ff34e0880b13.jpg"
+  },
+  {
+      "category": "Meren antimet 🦐",
+      "name": "A85. Kalmaria ja cashewpähkinöitä",
+      "description": "",
+      "price": "14,50 €",
+      "image": "/assets/images/669f71de1186ff34e0880b14.jpg"
+  },
+  {
+    "category": "Meren antimet 🦐",
+    "name": "A118. Kalaa ja paprikaa mustapapukastikkeessa",
+      "description": "(tulinen 🔥🔥🔥)",
+      "price": "14,00 €",
+      "image": "/assets/images/669f724159946c5d8ed9a6a3.jpg"
+  },
+  {
+      "category": "Meren antimet 🦐",
+      "name": "A119. Kalaa ja vihanneksia",
+      "description": "",
+      "price": "14,00 €",
+      "image": "/assets/images/669f724617cb85459f1e82f6.jpg"
+  },
+  {
+      "category": "Lajitelmat",
+      "name": "A86. Currylajitelma",
+      "description": "",
+      "price": "14,00 €",
+      "image": "No Image"
+  },
+  {
+    "category": "Lajitelmat",
+    "name": "A87. Mausteinen valkosipulikastike-mixed lajitelma",
+      "description": "",
+      "price": "13,50 €",
+      "image": "No Image"
+  },
+  {
+    "category": "Lajitelmat",
+    "name": "A88. Chili mixed lajitelma",
+      "description": "",
+      "price": "13,50 €",
+      "image": "No Image"
+  },
+  {
+      "category": "Naudanliharuoat 🐂",
+      "name": "A89. Vihanneksia ja naudanlihaa",
+      "description": "",
+      "price": "13,00 €",
+      "image": "/assets/images/66a15c6eafd792467e226a90.jpg"
+  },
+  {
+      "category": "Naudanliharuoat 🐂",
+      "name": "A90. Naudanlihaa mustapapukastikkeessa",
+      "description": "",
+      "price": "13,00 €",
+      "image": "/assets/images/66a15c8c81a53a693895d26f.jpg"
+  },
+  {
+      "category": "Naudanliharuoat 🐂",
+      "name": "A91. Sipulia ja naudanlihaa",
+      "description": "",
+      "price": "13,00 €",
+      "image": "/assets/images/66a15c9981a53a693895d270.jpg"
+  },
+  {
+      "category": "Naudanliharuoat 🐂",
+      "name": "A92. Ananasta ja naudanlihaa",
+      "description": "",
+      "price": "14,00 €",
+      "image": "/assets/images/bf716f0a-24a9-11ef-85d7-16ee65627634_kanaaananas.png.jpg"
+  },
+  {
+      "category": "Naudanliharuoat 🐂",
+      "name": "A93. Pippurinen naudanliha",
+      "description": "",
+      "price": "14,50 €",
+      "image": "/assets/images/66a15cb3afd792467e226a91.jpg"
+  },
+  {
+      "category": "Naudanliharuoat 🐂",
+      "name": "A94. Curry naudanliha",
+      "description": "",
+      "price": "14,00 €",
+      "image": "/assets/images/c4a7d4dc-24a9-11ef-b076-ca05f76adec6_kanacurry.png.jpg"
+  },
+  {
+      "category": "Naudanliharuoat 🐂",
+      "name": "A95. Thai-mausteinen naudanliha",
+      "description": "",
+      "price": "13,00 €",
+      "image": "/assets/images/66a15cc4afd792467e226a92.jpg"
+  },
+  {
+      "category": "Naudanliharuoat 🐂",
+      "name": "A96. Pekingin naudanlihaa",
+      "description": "",
+      "price": "13,00 €",
+      "image": "/assets/images/66a15d01f97d415a19bc5559.jpg"
+  },
+  {
+      "category": "Naudanliharuoat 🐂",
+      "name": "A97. Naudanlihaa ja kalakastiketta",
+      "description": "",
+      "price": "13,00 €",
+      "image": "/assets/images/66a15d1df39ac42dea6d0550.jpg"
+  },
+  {
+      "category": "Naudanliharuoat 🐂",
+      "name": "A98. Naudanlihaa ja osterikastikkeessa",
+      "description": "",
+      "price": "13,00 €",
+      "image": "/assets/images/66a15d2bf39ac42dea6d0551.jpg"
+  },
+  {
+      "category": "Naudanliharuoat 🐂",
+      "name": "A99. Inkivääriä ja naudanlihaa",
+      "description": "",
+      "price": "13,00 €",
+      "image": "/assets/images/66a15d3979a8a67bc56d7c2d.jpg"
+  },
+  {
+      "category": "Naudanliharuoat 🐂",
+      "name": "A100. Naudanlihaa, sieniä ja bambunversoja",
+      "description": "",
+      "price": "13,50 €",
+      "image": "/assets/images/d48fbe14-24a9-11ef-80ca-1a5cdfd15861_kanaa_ja_kiinalaisia_sienia_.png.jpg"
+  },
+  {
+      "category": "Naudanliharuoat 🐂",
+      "name": "A102. Szechuan-naudanlihaa",
+      "description": "(tulinen 🔥)",
+      "price": "13,50 €",
+      "image": "/assets/images/66a15d75f97d415a19bc555a.jpg"
+  },
+  {
+      "category": "Naudanliharuoat 🐂",
+      "name": "A103. Naudanlihaa ja herkkusieniä",
+      "description": "",
+      "price": "13,00 €",
+      "image": "/assets/images/66a15db6afd792467e226a93.jpg"
+  },
+  {
+      "category": "Naudanliharuoat 🐂",
+      "name": "A104. Naudanlihaa makea chilikastikkeessa",
+      "description": "(hieman tulinen 🔥)",
+      "price": "14,00 €",
+      "image": "/assets/images/66a15df481a53a693895d271.jpg"
+  },
+  {
+    "category": "Lasten ruoat 🍟",
+    "name": "A105. Kanaa ja ranskalaisia",
+      "description": "",
+      "price": "8,00 €",
+      "image": "/assets/images/669f72064a496f79c14bf18f.jpg"
+  },
+  {
+    "category": "Lasten ruoat 🍟",
+    "name": "A106. Naudanlihaa ja ranskalaisia",
+      "description": "",
+      "price": "8,00 €",
+      "image": "No Image"
+  },
+  {
+    "category": "Lasten ruoat 🍟",
+    "name": "A107. Friteerattua kanaa ja ranskalaisia",
+      "description": "",
+      "price": "8,00 €",
+      "image": "/assets/images/669f7210fd809433afa45f7a.jpg"
+  },
+  {
+      "category": "Lasten ruoat 🍟",
+      "name": "A108. Makkaraa ja ranskalaisia",
+      "description": "",
+      "price": "8,00 €",
+      "image": "/assets/images/669f72164a496f79c14bf190.jpg"
+  },
+  {
+      "category": "Lisukkeet 🥫🍚🥢",
+      "name": "Chilikastike",
+      "description": "",
+      "price": "2,00 €",
+      "image": "/assets/images/669f7276f85d3b736e9c05fc.jpg"
+  },
+  {
+      "category": "Lisukkeet 🥫🍚🥢",
+      "name": "Hapanimeläkastike",
+      "description": "",
+      "price": "2,00 €",
+      "image": "/assets/images/669f7290f85d3b736e9c0600.jpg"
+  },
+  {
+    "category": "Lisukkeet 🥫🍚🥢",
+    "name": "Sushi soijakastike",
+      "description": "",
+      "price": "1,00 €",
+      "image": "/assets/images/669f7293f85d3b736e9c0601.jpg"
+  },
+  {
+    "category": "Lisukkeet 🥫🍚🥢",
+    "name": "Sushi Inkivääri",
+      "description": "",
+      "price": "1,00 €",
+      "image": "/assets/images/669f72961186ff34e0880b22.jpg"
+  },
+  {
+      "category": "Lisukkeet 🥫🍚🥢",
+      "name": "Riisi 1 rasia",
+      "description": "",
+      "price": "3,50 €",
+      "image": "/assets/images/f2b14fca-24a9-11ef-b848-2a7c975eac19_340c87a8_8948_11ee_a92f_8af677bbcf93_rice.png.jpg"
+  },
+  {
+    "category": "Lisukkeet 🥫🍚🥢",
+    "name": "Syömäpuikot 1 pari",
+      "description": "",
+      "price": "0,50 €",
+      "image": "/assets/images/669f729b1186ff34e0880b23.avif"
+},
+  {
+    "category": "Makit",
+    "name": "8. Black 4 kpl Sushi",
+      "description": "Lohi, kurkku, avokado",
+      "price": "4,90 €",
+      "image": "/assets/images/7c0dcf5c-1903-11eb-9104-be9024e03643_8.jpeg.jpg"
+  },
+  {
+    "category": "Makit",
+    "name": "9. Black Vegan 4 kpl Sushi",
+      "description": "Tofu, kurkku, avokado",
+      "price": "4,90 €",
+      "image": "/assets/images/875a790a-1903-11eb-86fe-e680b3f36ca0_9.jpeg.jpg"
+  },
+  {
+    "category": "Makit",
+    "name": "10. Brown 4 kpl Sushi",
+      "description": "Lohi, kurkku, surimi, sipulirouhe\n\n",
+      "price": "4,90 €",
+      "image": "/assets/images/93e6e352-1903-11eb-8228-164aa54df8cf_10.jpeg.jpg"
+  },
+  {
+    "category": "Makit",
+    "name": "11. Brown Vegan 4 kpl Sushi",
+      "description": "Tofu, kurkku, merilevä, sipulirouhe\n\n",
+      "price": "4,90 €",
+      "image": "/assets/images/9e563d74-1903-11eb-8acc-9ac751d77081_11.jpeg.jpg"
+  },
+  {
+    "category": "Makit",
+    "name": "12. Green 4 kpl Sushi",
+      "description": "Lohi, retikka, kurkku, avokado päällä",
+      "price": "6,80 €",
+      "image": "/assets/images/a9ff5d2c-1903-11eb-88ec-12e668124ca6_12.jpeg.jpg"
+  },
+  {
+    "category": "Makit",
+    "name": "13. Green Vegan 4 kpl Sushi",
+      "description": "Tofu, retikka, kurkku ja avokado päällä",
+      "price": "6,80 €",
+      "image": "/assets/images/b4fff0d8-1903-11eb-9405-7ef88204c980_13.jpeg.jpg"
+  },
+  {
+    "category": "Makit",
+    "name": "14. Orange 4 kpl Sushi",
+      "description": "Surimi, avokado, kurkku ja lohi päällä",
+      "price": "6,80 €",
+      "image": "/assets/images/bff4dc06-1903-11eb-b4c3-c26416674afe_14.jpeg.jpg"
+  },
+  {
+    "category": "Makit",
+    "name": "15. Pink 4 kpl Sushi",
+      "description": "Lohi, kurkku, retikka ja katkarapu päällä",
+      "price": "6,80 €",
+      "image": "/assets/images/c982014a-1903-11eb-aa1a-723a311941ec_15.jpeg.jpg"
+  },
+  {
+    "category": "Makit",
+    "name": "16. Pink Vegan 4 kpl Sushi",
+      "description": "Kurkku, retikka, tofu, kookos päällä",
+      "price": "6,80 €",
+      "image": "/assets/images/d48529d2-1903-11eb-bb5b-fe6e83dd7b0d_16.jpeg.jpg"
+  },
+  {
+    "category": "Makit",
+    "name": "17. White 4 kpl Sushi",
+      "description": "Lohi, avokado, kurkku\n\n",
+      "price": "4,90 €",
+      "image": "/assets/images/f175b520-1903-11eb-b35a-565017b19b91_17.jpeg.jpg"
+  },
+  {
+    "category": "Makit",
+    "name": "18. White Vegan 4kpl Sushi",
+      "description": "Merilevä, tofu ja avokado",
+      "price": "4,90 €",
+      "image": "/assets/images/ffb3c92e-1903-11eb-b655-8e639c6e10c5_18.jpeg.jpg"
+  },
+  {
+    "category": "Makit",
+    "name": "20. Silver 4 kpl Sushi",
+      "description": "Lohi, surimi, kurkku ja kevyesti friteerattu maki",
+      "price": "6,80 €",
+      "image": "/assets/images/164b5cec-1904-11eb-b793-565017b19b91_20_2.jpeg.jpg"
+  },
+  {
+    "category": "Makit",
+    "name": "21. Bronze 4 kpl Sushi",
+      "description": "Lohi, surimi, kurkku ja friteerattu california maki",
+      "price": "6,80 €",
+      "image": "/assets/images/2a1e06c0-1904-11eb-a85c-62705b1c94f5_21.jpeg.jpg"
+  },
+  {
+      "category": "Makit",
+      "name": "22. Philadelphia 4 kpl Sushi",
+      "description": "Lohi, kurkku, tuore juusto",
+      "price": "5,80 €",
+      "image": "/assets/images/3421e240-1904-11eb-8f4b-8e639c6e10c5_22.jpeg.jpg"
+  },
+  {
+    "category": "Kappamaki",
+    "name": "23. Kurkku 6 kpl Sushi",
+      "description": "",
+      "price": "5,80 €",
+      "image": "/assets/images/3f2ab6b2-1904-11eb-b149-62705b1c94f5_23.jpeg.jpg"
+  },
+  {
+    "category": "Kappamaki",
+    "name": "24. Lohi 6 kpl Sushi",
+      "description": "",
+      "price": "5,80 €",
+      "image": "/assets/images/4a3c0b3c-1904-11eb-afe0-ae04ae0204c3_24.jpeg.jpg"
+  },
+  {
+    "category": "Kappamaki",
+    "name": "25. Liekitetty lohi 6 kpl Sushi",
+      "description": "",
+      "price": "6,80 €",
+      "image": "/assets/images/52e5a734-1904-11eb-bb45-0a886e4ac4a9_25.jpeg.jpg"
+  },
+  {
+      "category": "Kappamaki",
+      "name": "26. Retikka 6 kpl Sushi",
+      "description": "",
+      "price": "5,80 €",
+      "image": "/assets/images/5b6f740c-1904-11eb-8677-8e639c6e10c5_26.jpeg.jpg"
+  },
+  {
+    "category": "Vegan nigiri",
+      "name": "27. Avokado 2 kpl Sushi",
+      "description": "",
+      "price": "2,80 €",
+      "image": "/assets/images/638b0f34-1904-11eb-a5a5-5aba296abe69_27.jpeg.jpg"
+  },
+  {
+    "category": "Vegan nigiri",
+      "name": "28. Tofu 2 kpl Sushi",
+      "description": "",
+      "price": "2,80 €",
+      "image": "/assets/images/6cbc559a-1904-11eb-89f6-8e639c6e10c5_28.jpeg.jpg"
+  },
+  {
+    "category": "Vegan nigiri",
+    "name": "29. Merilevä 2 kpl Sushi",
+      "description": "",
+      "price": "2,80 €",
+      "image": "/assets/images/73c87120-1904-11eb-ada3-560e86588b7d_29.jpeg.jpg"
+  },
+  {
+    "category": "Vegan nigiri",
+    "name": "31. Mango 2 kpl Sushi",
+      "description": "",
+      "price": "2,80 €",
+      "image": "/assets/images/7e40d836-1904-11eb-9e38-4edac476378b_31.jpeg.jpg"
+  },
+  {
+    "category": "Vegan nigiri",
+    "name": "32. Kiwi 2 kpl Sushi",
+      "description": "",
+      "price": "2,80 €",
+      "image": "/assets/images/862bb214-1904-11eb-b0a8-fe6e83dd7b0d_32.jpeg.jpg"
+  },
+  {
+      "category": "Vegan nigiri",
+      "name": "35. Maissi & vegemajoneesi 2 kpl Sushi",
+      "description": "",
+      "price": "2,80 €",
+      "image": "/assets/images/9e958c9e-1904-11eb-a9c4-4edac476378b_35.jpeg.jpg"
+  },
+  {
+    "category": "Nigiri 🍣",
+    "name": "36. Lohi 2 kpl Sushi",
+      "description": "",
+      "price": "2,80 €",
+      "image": "/assets/images/a6cfdba8-1904-11eb-b855-8e639c6e10c5_36.jpeg.jpg"
+  },
+  {
+    "category": "Nigiri 🍣",
+    "name": "37. Liekitetty lohi 2 kpl Sushi",
+      "description": "",
+      "price": "3,20 €",
+      "image": "/assets/images/aebbca0c-1904-11eb-aa80-ae04ae0204c3_37.jpeg.jpg"
+  },
+  {
+    "category": "Nigiri 🍣",
+    "name": "38. Tonnikalamajoneesi 2 kpl Sushi",
+      "description": "",
+      "price": "2,80 €",
+      "image": "/assets/images/b73af112-1904-11eb-9074-7ed2f1901f4d_38.jpeg.jpg"
+  },
+  {
+    "category": "Nigiri 🍣",
+    "name": "39. Rapumajoneesi 2 kpl Sushi",
+      "description": "",
+      "price": "2,80 €",
+      "image": "/assets/images/c11b9416-1904-11eb-8481-1a935d6beb18_39.jpeg.jpg"
+  },
+  {
+    "category": "Nigiri 🍣",
+    "name": "40. Katkarapu 2 kpl Sushi",
+      "description": "",
+      "price": "2,80 €",
+      "image": "/assets/images/dd2f0322-1904-11eb-92a8-5edf12ac414a_40.jpeg.jpg"
+  },
+  {
+    "category": "Nigiri 🍣",
+    "name": "41. Friteerattu katkarapu 2 kpl Sushi",
+      "description": "",
+      "price": "3,20 €",
+      "image": "/assets/images/e7e21bc4-1904-11eb-9e70-364cea1acf0a_41.jpeg.jpg"
+  },
+  {
+    "category": "Nigiri 🍣",
+    "name": "42. Rapu 2 kpl Sushi",
+      "description": "",
+      "price": "2,80 €",
+      "image": "/assets/images/f04979f6-1904-11eb-93a0-7a1f1968a9d9_42.jpeg.jpg"
+  },
+  {
+    "category": "Nigiri 🍣",
+    "name": "44. Paahtopaisti 2 kpl Sushi",
+      "description": "",
+      "price": "2,80 €",
+      "image": "/assets/images/059372a8-1905-11eb-b63e-eab3d4737868_44.jpeg.jpg"
+  },
+  {
+      "category": "Nigiri 🍣",
+      "name": "46. Sriracha lohi 2 kpl Sushi",
+      "description": "",
+      "price": "2,80 €",
+      "image": "/assets/images/26517080-1905-11eb-9366-5edf12ac414a_46.jpeg.jpg"
+  },
+  {
+    "category": "Sushilajitelmat 🍱",
+      "name": "30. 16 kpl lajitelma Sushi",
+      "description": "3 lohta, 3 liekitetty lohi, 4 tonnikalamajoneesi, 2 avokado, 4 california makia.",
+      "price": "18.40",
+      "image": "/assets/images/669f701b4a496f79c14bf176.jpg"
+  },
+  {
+    "category": "Sushilajitelmat 🍱",
+      "name": "33. 32kpl lajitelma Sushi",
+      "description": "6 lohta, 6 liekitetty lohi, 8 tonnikalamajoneesi, 4 avokado, 8 california makia.",
+      "price": "41,30 €",
+      "image": "/assets/images/669f702cfd809433afa45f61.jpg"
+  },
+  {
+    "category": "Sushilajitelmat 🍱",
+      "name": "34. 16 kpl lajitelma Sushi",
+      "description": "3 lohta, 3 liekitetty lohi, 2 tonnikalamajoneesi, 2 avokado, 2 Friteerattu katkarapu 4 california makia.",
+      "price": "No Price",
+      "image": "/assets/images/669f706e59946c5d8ed9a679.jpg"
+  },
+  {
+    "category": "Sushilajitelmat 🍱",
+      "name": "45. 32kpl lajitelma Sushi",
+      "description": "6 lohta, 6 liekitetty lohi, 4 tonnikalamajoneesi, 4 avokado, 4 Friteerattu katkarapu 8 california makia.",
+      "price": "42,50 €",
+      "image": "/assets/images/669f707659946c5d8ed9a67a.jpg"
+  },
+  {
+    "category": "Sushilajitelmat 🍱",
+      "name": "48. 32 kpl lajitelma Sushi",
+      "description": "6 Lohta, 6 Liekitetty lohi, 6 tonnikalamajoneesi, 4 avokadoa, 2 Fritettu katkarapua, 8 California makia",
+      "price": "41,90 €",
+      "image": "/assets/images/669f707b59946c5d8ed9a67b.jpg"
+  },
+  {
+    "category": "Sushilajitelmat 🍱",
+      "name": "49.32kpl lajitelma Sushi",
+      "description": "6 lohta, 6 liekitetty lohi, 7 tonnikalamajoneesi, 5 avokado, 8 california makia.",
+      "price": "41,90 €",
+      "image": "/assets/images/669f708059946c5d8ed9a67c.jpg"
+  },
+  {
+    "category": "Sushilajitelmat 🍱",
+      "name": "50. 16 kpl lajitelma Sushi",
+      "description": "8 lohta, 8 liekitettyä lohta",
+      "price": "26,50 €",
+      "image": "No Image"
+  },
+  {
+    "category": "Sushilajitelmat 🍱",
+      "name": "51. 8 kpl lajitelma Sushi",
+      "description": "2 lohta, 1 liekitetty lohi, 1 tonnikalamajoneesi, 2 makia ja california makia",
+      "price": "10,40 €",
+      "image": "/assets/images/59e67274-1905-11eb-a661-364cea1acf0a_51.jpeg.jpg"
+  },
+  {
+    "category": "Sushilajitelmat 🍱",
+      "name": "52. 10 kpl lajitelma Sushi",
+      "description": "2 lohta, 1 liekitetty lohi, 1 tonnikalamajoneesi, 2 katkarapua, 2 makia ja 2 california makia",
+      "price": "13,00 €",
+      "image": "/assets/images/63d619ec-1905-11eb-8417-0ac2e58e9dda_52.jpeg.jpg"
+  },
+  {
+    "category": "Sushilajitelmat 🍱",
+      "name": "53. 12 kpl lajitelma Sushi",
+      "description": "2 lohta, 1 liekitetty lohi, 1 tonnikalamajoneesi, 2 katkarapua, 2 avokadoa, 2 makia ja 2 california makia",
+      "price": "15,60 €",
+      "image": "/assets/images/6d8e7dc6-1905-11eb-b295-9233132ad1a2_53.jpeg.jpg"
+  },
+  {
+    "category": "Sushilajitelmat 🍱",
+      "name": "54. 16 kpl lajitelma Sushi",
+      "description": "3 lohta, 3 liekitetty lohi, 2 tonnikalamajoneesi, 2 katkarapua, 2 avokadoa, 2 makia ja 2 california makia",
+      "price": "18,40 €",
+      "image": "/assets/images/7717b524-1905-11eb-950a-9e23f588cbc8_54.jpeg.jpg"
+  },
+  {
+    "category": "Sushilajitelmat 🍱",
+      "name": "55. 28 kpl lajitelma Sushi",
+      "description": "4 lohta, 4 liekitetty lohi, 4 tonnikalamajoneesi, 4 katkarapua, 4 avokadoa, 4 makia ja 4 california makia",
+      "price": "30,80 €",
+      "image": "/assets/images/898c57fa-1905-11eb-9337-0ac2e58e9dda_55.jpeg.jpg"
+  },
+  {
+    "category": "Sushilajitelmat 🍱",
+      "name": "56. 8 kpl vegelajitelma Sushi",
+      "description": "2 avokadoa, 1 tofu, 1 merilevä, 2 makia ja california makia",
+      "price": "10,40 €",
+      "image": "No Image"
+  },
+  {
+    "category": "Sushilajitelmat 🍱",
+      "name": "57. 10 kpl vege lajitelma Sushi",
+      "description": "2 avokadoa, 1 tofu, 1 merilevä, 2 makia ja 2 california makia",
+      "price": "13,00 €",
+      "image": "/assets/images/9275f484-1905-11eb-806c-5edf12ac414a_57.jpeg.jpg"
+  },
+  {
+    "category": "Sushilajitelmat 🍱",
+      "name": "58. 12 kpl vege lajitelma Sushi",
+      "description": "2 avokadoa, 1 tofu, 1 merilevä, 1 maissi, 1 kiwi, 2 makia ja 2 california makia",
+      "price": "15,60 €",
+      "image": "/assets/images/9c372f38-1905-11eb-b57d-fa94b22dd33a_58.jpeg.jpg"
+  },
+  {
+    "category": "Sushilajitelmat 🍱",
+      "name": "59. 16 kpl lajitelma Sushi",
+      "description": "3 avokadoa, 2 tofu, 2 merilevä, 2 maissi, 2 kiwi, 1 mango, 2 makia ja 2 california makia",
+      "price": "18,40 €",
+      "image": "/assets/images/a64d45c0-1905-11eb-aac0-7603ff9f2724_59.jpeg.jpg"
+  },
+  {
+    "category": "Sushilajitelmat 🍱",
+      "name": "60. 28 kpl lajitelma Sushi",
+      "description": "6 avokadoa, 4 tofu, 4 merilevä, 2 maissi, 2 kiwi, 2 mango, 4 makia ja 4 california makia",
+      "price": "30,80 €",
+      "image": "No Image"
+  },
+  {
+      "category": "Sashimi 🐟",
+      "name": "73. Lohi Sashimi 🐟 8 kpl Sushi",
+      "description": "",
+      "price": "7,99 €",
+      "image": "/assets/images/669f708b17cb85459f1e82c6.jpg"
+  },
+  {
+    "category": "Sashimi 🐟",
+      "name": "74. Liekitetty lohiSashimi 🐟 8 kpl Sushi",
+      "description": "",
+      "price": "7,99 €",
+      "image": "/assets/images/669f709559946c5d8ed9a67e.jpg"
+  },
+  {
+    "category": "Sashimi 🐟",
+    "name": "75. Sashimi 🐟 combo Sushi",
+      "description": "3 kpl lohiSashimi 🐟a & 3 kpl liekitettyä lohiSashimi 🐟a",
+      "price": "7,99 €",
+      "image": "/assets/images/669f709c59946c5d8ed9a680.jpg"
+  },
+  {
+      "category": "Sushiburritot",
+      "name": "76. Salmonder Sushi",
+      "description": "Lohi, avokado, katkarapu, kurkku, retikka, tonnikalamajoneesi ja mätiä",
+      "price": "16,80 €",
+      "image": "/assets/images/669f70a217cb85459f1e82c8.jpg"
+  },
+  {
+    "category": "Sushiburritot",
+    "name": "77. Prawnder Sushi",
+      "description": "Friteerattua jättikatkarapua, katkarapua, kurkkua, rapumajoneesia ja merilevää",
+      "price": "16,80 €",
+      "image": "/assets/images/669f70a817cb85459f1e82c9.jpg"
+  },
+  {
+    "category": "Sushiburritot",
+    "name": "78. Vegander Sushi",
+      "description": "Avokado, retikka, kurkku, tofu ja merilevä",
+      "price": "16,80 €",
+      "image": "/assets/images/669f70ae59946c5d8ed9a682.jpg"
+  },
+  {
+      "category": "Juomat",
+      "name": "Coca-Cola 0,5 l",
+      "description": "0,5 l",
+      "price": "3,00 €",
+      "image": "/assets/images/c81333f0-1b79-11ec-b350-ea3a0827e54c_coca_cola_50_cl_kmp_quick_preset_1000x563__1_.jpeg.jpg"
+  },
+  {
+      "category": "Juomat",
+      "name": "Coca-Cola Zero 0,5 l",
+      "description": "0,5 l",
+      "price": "3,00 €",
+      "image": "/assets/images/d228551e-1b79-11ec-8856-2e6c9d9f498a_coca_cola_zero_sugar_50_cl_kmp_quick_preset_1000x563.jpeg.jpg"
+  },
+  {
+      "category": "Juomat",
+      "name": "Fanta Appelsiini 0,5l",
+      "description": "",
+      "price": "3,00 €",
+      "image": "/assets/images/667942a7024f5e6c296ea97e.jpg"
+  },
+  {
+      "category": "Juomat",
+      "name": "Coca-Cola 1,5 l",
+      "description": "",
+      "price": "4,50 €",
+      "image": "/assets/images/fa016214-9581-11ed-b9fd-5eaf9e0c5978_coca_cola_150_cl_kmp_quick_preset_1000x563.jpeg.jpg"
+  },
+  {
+      "category": "Juomat",
+      "name": "Coca-Cola Zero 1,5 L",
+      "description": "",
+      "price": "4,30 €",
+      "image": "/assets/images/06415600502078-5a41d2f5-4b59-4f41-89b5-bd80bc90953d.jpg"
+  },
+  {
+      "category": "Juomat",
+      "name": "Fanta Appelsiini 1,5 L",
+      "description": "",
+      "price": "5,50 €",
+      "image": "/assets/images/06415600549523-0d803ee6-7254-4bdf-b289-d469a1aed5bf.jpg"
+  },
+  {
+      "category": "Juomat",
+      "name": "Sprite 1,5 L",
+      "description": "",
+      "price": "5,50 €",
+      "image": "/assets/images/06415600555760-3fc043a8-f415-4854-a54c-28420272b52e.jpg"
+  }
+]
